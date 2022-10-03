@@ -14,5 +14,16 @@
         android:text="Selamat Datang"
         android:textSize="20dp"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_nama"
+        android:textSize="20dp"
+        android:text="NAMA"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tv_welcome"/>
+
+
 </RelativeLayout>
 
